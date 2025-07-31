@@ -1,5 +1,6 @@
 import { Hono } from 'hono'
-import { serveStatic } from 'hono/serve-static.module'
+import { serveStatic } from 'hono/cloudflare-workers'
+
 import { cors } from 'hono/cors'
 
 const app = new Hono()
