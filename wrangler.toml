@@ -1,4 +1,4 @@
 name = "hono-login"
 main = "server/index.ts"
 compatibility_date = "2024-07-31"
-node_compat = true
+compatibility_flags = ["nodejs_compat"]
