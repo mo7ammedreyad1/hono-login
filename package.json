@@ -1,0 +1,10 @@
+{
+  "name": "hono-login",
+  "type": "module",
+  "scripts": {
+    "build": "echo done"
+  },
+  "dependencies": {
+    "hono": "^3.7.0"
+  }
+}
